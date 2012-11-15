@@ -24,6 +24,8 @@
  * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 
+// Just a test 
+ 
 require_once 'app/bootstrap.php';
 
 /* Store or website code */
