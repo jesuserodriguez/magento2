@@ -434,11 +434,6 @@ final class Mage
         return self::$_config;
     }
 
-    public function myTestFunction()
-    {
-        return 'my test function. :)';
-    }
-
     /**
      * Add observer to even object
      *
